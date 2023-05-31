@@ -6,7 +6,7 @@ Caso o usuário acerte, tem a opção de clicar no botão para recomeçar o jogo
 
 Todas as validações foram feitas usando o JS.
 
-Você pode conferir o projeto completo em: https://querenhapuquerocha.github.io/projetoNumeroSecreto/
+Você pode conferir o projeto completo em: https://querenfernandes.github.io/projetoNumeroSecreto/
 
 
 Tela de validação onde mostra que o número que foi falado é o 10, mas o escolhido é maior:
